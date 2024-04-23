@@ -13,13 +13,13 @@ email: trangtoan293@gmail.com
 darkmode: false
 
 # Social links
-github_username:  trangtoan293
+github_username: trangtoan293
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Thanh-Toan Trang
+linkedin_username: thanh-toan-t-aa32651ba
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -27,10 +27,10 @@ linkedin_username: Thanh-Toan Trang
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,11 +45,116 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Having served as the Data Engineering Lead at Katalyst Vietnam JSC for a year, I've gained deep insights into datamodelling and advanced data process development. My strong foundation in the fi nance sector is supported by aMaster's degree in European and International Private Banking from IAE Nice. This background enabled me to successfully design and implement an end-to-end DataVault Platform for one ofVietnam's premier banks, integrating the Data Vault Model and Data Transformation patterns on a Big Data Platform. I'm now eager to explore opportunities that will further develop my technical capabilities and allow me to work in aninternational environment, where I can harness new technologies to create innovative solutions.
 
 content:
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Katalyst VietNam Company
+        link: katalyst.vn/
+        # link_text: boringcompany.com
+        sub_title: Data Engineering Lead
+        caption: Oct 2022 - Present
+        quote: >
+          Design data platform
+        description: | 
+            - Architect and implement a comprehensive modern data platform for the company
+            - Design Data Vault 2.0 modeling pattern to build a data warehouse.
+            - Develop end-to-end data workfl ows on the data platform, including develop datapipeline, data catalog, data lineage, data quality and monitoring.
+            - Design maintaining jobs, including small-fi les handling, snapshots expiring andremoving old metadata fi les.
+            - Optimize Spark jobs to enhance data processing performance and minimizeresource utilization.
+            - Design and develop DataVault Automation Tool to enhance the implementationprocess.
+            - Co-operate with CTO to defi ne tools and services for the product.
+      
+      - layout: left
+        title: Home Credit Vietnam Financial Company
+        link: homecredit.vn
+        # link_text: boringcompany.com
+        sub_title: Business Intelligence Lead
+        caption: Dec 2019 - Oct 2022
+        quote: >
+          Inhouse Data Platform Implementation
+        description: | # this will include new lines to allow paragraphs
+            - Report Automation: Spearheaded the generation of daily, monthly, and quarterlyautomated reports tailored for the Finance Department.
+            - Dashboard Maintenance: Diligently maintained and updated the Board ofDirectors' Finance dashboards, ensuring accuracy and relevancy.
+            - Regulatory & Tax Reporting: Enhanced and automated regulatory and taxreporting processes, with meticulous data mapping and monitoring to guaranteeSBV reporting compliance.
+            - Data Integrity & Alerts: Instituted rigorous data quality checks, along with earlywarning systems and alerts for critical issues.
+            - Data Reconciliation & Automation: Automated reconciliations between diversedata sources and streamlined the integration with the SAP Auto-booking process.
+            - IT Collaboration & Data Strategy: Partnered with IT to fi ne-tune data strategy,emphasizing the roles of DWH, DataMart, and Hadoop. Promoted the use ofHadoop for enhanced reporting, positioning it as a reliable backup solution.
+            - Support for Transformation Initiatives: Actively supported company transformationprojects, collaborating with the Accounting department to deliver essentialregulatory components.
+     
+      - layout: left
+        title: HC Collection Agency Company
+        link: --
+        # link_text: boringcompany.com
+        sub_title: Data Engineer
+        caption: Jan 2021 - Present
+        quote: >
+          Evaluate collection team performance
+        description: | # this will include new lines to allow paragraphs
+          - Building a small-scale data platform for a company
+          - Process and integrate data using ETL processes to ensure accuracy andconsistency by using Python and dbt.
+          - Design a data storage and visualization tool, such as Metabase, for creating anoperator performance and Payment dashboard for the company.
+          - Collect and analyze key performance metrics from collection team for reporting.
+          - Enhance campaign approach to improve operator process.
+
+      - layout: left
+        title: Shinhan Bank Vietnam
+        link: shinhan.com.vn
+        # link_text: boringcompany.com
+        sub_title: Data Analyst
+        caption: Jun 2017 - Nov 2019
+        quote: >
+          Data Analytics and Management Credit Assessment
+        description: | # this will include new lines to allow paragraphs
+          - Generating daily/monthly or ad-hoc management reports to managers anddirectors.
+          - Closely tracking on resource and capacity planning.
+          - Developing effi cient scripting to manage data gathering, mining andtransformation.
+          - Monitoring analytics and metrics results and delivering data-driven insight intoemerging problems, trends as required.
+          - Collaborate with Assessment/Draw-down/Collection departments to identifybusiness process improvements.
+  
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IAE Nice - Business School - FRANCE
+        caption: Sep 2014 - Sep 2016
+        sub_title: Master of European and International Private Banking
+        description: | # this will include new lines to allow paragraphs
+          Banking Finance, Financial Analysis Advance,Portfolio, Management, Marketingand commercial development, Risk management.
+      - layout: left
+        title: Toulouse 1 University Capitole - FRANCE
+        caption: Sep 2011 - Sep 2014
+        sub_title: Bachelor of Economics and Management
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AWS Certifi ed Cloud Practitioner
+        caption: Apr 2024
+        link: https://bit.ly/3vV8jpZ
+      - layout: left
+        title: Data Vault 2.0 Practitioner
+        caption: Mar 2023
+        link: https://bit.ly/3UobAYa
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -68,46 +173,6 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
