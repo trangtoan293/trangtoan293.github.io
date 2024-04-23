@@ -119,8 +119,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
-        title: IAE Nice - Business School - FRANCE
+      - layout: left
+        title: IAE Nice - Université Côte d'Azur- FRANCE
         caption: Sep 2014 - Sep 2016
         sub_title: Master of European and International Private Banking
         description: | # this will include new lines to allow paragraphs
@@ -129,6 +129,14 @@ content:
         title: Toulouse 1 University Capitole - FRANCE
         caption: Sep 2011 - Sep 2014
         sub_title: Bachelor of Economics and Management
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        description: |
+          Apr-2024 [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
+          Mar 2023 [Data Vault 2.0 Practitioner](https://bit.ly/3UobAYa)
 
   - title: A Little More About Me
     layout: text
@@ -141,19 +149,6 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-  - title: Certifications # Title for the section
-    layout: text # Type of content section (list/text)
-    content:
-      - layout: left
-        title: AWS Certified Cloud Practitioner
-        caption: Apr 2024
-        link: https://bit.ly/3vV8jpZ
-      - layout: left
-        title: Data Vault 2.0 Practitioner
-        caption: Mar 2023
-        link: https://bit.ly/3UobAYa
-
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
