@@ -117,39 +117,37 @@ content:
           - Collaborate with Assessment/Draw-down/Collection departments to identifybusiness process improvements.
   
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: left
-        title: Master of European and International Private Banking
-        caption: Sep 2014 - Sep 2016
-        description: | # this will include new lines to allow paragraphs
-          IAE Nice - Université Côte d'Azur- FRANCE
+        - <h4>Sep 2014 - Sep 2016 </h4>
+          <h4>Master of European and International Private Banking </h4>
+          <h5>IAE Nice - Université Côte d'Azur- FRANCE </h5>
 
-      - layout: left
-        title: Bachelor of Economics and Management
-        caption: Sep 2011 - Sep 2014
-        description: | # this will include new lines to allow paragraphs
-          Toulouse 1 University Capitole - FRANCE
+        - <h4>Sep 2011 - Sep 2014 </h4>
+          <h4>Bachelor of Economics and Management</h4>
+          <h5>Toulouse 1 University Capitole - FRANCE </h5>
           
+
   - title: Certifications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        description: |
-          - Apr-2024 [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
+    layout: text # Type of content section (list/text)
+    content: |
+          - Apr 2024 [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
           - Mar 2023 [Data Vault 2.0 Practitioner](https://bit.ly/3UobAYa)
 
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Programming Languages: Python
+      - Big Data Technologies: Hadoop Ecosystem, Apache Spark, YARN, Apache Kafka
+      - Open Format Table: Apache Iceberg
+      - Storage: MinIO
+      - Streaming platform : Confluent
+      - Database Management: Oracle, PostgreSQL
+      - Transformation tool: dbt
+      - Orchestration: Apache Airflow
+      - Version Control: Git
+      - Data Modeling: Ralph Kimball, Data Vault 2.0
+      - Team Collaboration and Communication
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
