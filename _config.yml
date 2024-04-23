@@ -1,5 +1,5 @@
 # Site
-repository: trangtoan293/toantt.github.io
+repository: trangtoan293/trangtoan293.github.io
 
 # Content configuration version
 version: 2
@@ -110,10 +110,10 @@ content:
         quote: >
           Data Analytics and Management Credit Assessment
         description: | # this will include new lines to allow paragraphs
-          - Generating daily/monthly or ad-hoc management reports to managers anddirectors.
-          - Closely tracking on resource and capacity planning.
-          - Developing effi cient scripting to manage data gathering, mining andtransformation.
-          - Monitoring analytics and metrics results and delivering data-driven insight intoemerging problems, trends as required.
+          - Generate daily/monthly or ad-hoc management reports to managers anddirectors.
+          - Closely track on resource and capacity planning.
+          - Develop efficient scripting to manage data gathering, mining andtransformation.
+          - Monitor analytics and metrics results and delivering data-driven insight into emerging problems, trends as required.
           - Collaborate with Assessment/Draw-down/Collection departments to identifybusiness process improvements.
   
   - title: Education # Title for the section
@@ -141,7 +141,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming Languages: Python
-      - Big Data Technologies: Hadoop Ecosystem, Apache Spark, YARN, Apache Kafka
+      - Big Data Technologies: Apache Spark, YARN, Apache Kafka, HDFS
       - Open Format Table: Apache Iceberg
       - Storage: MinIO
       - Streaming platform : Confluent
