@@ -117,15 +117,18 @@ content:
           - Collaborate with Assessment/Draw-down/Collection departments to identifybusiness process improvements.
   
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-        - <h4>Sep 2014 - Sep 2016 </h4>
-          <h4>Master of European and International Private Banking </h4>
-          <h5>IAE Nice - Université Côte d'Azur- FRANCE </h5>
-
-        - <h4>Sep 2011 - Sep 2014 </h4>
-          <h4>Bachelor of Economics and Management</h4>
-          <h5>Toulouse 1 University Capitole - FRANCE </h5>
+    layout: list # Type of content section (list/text)
+    content: 
+      - layout: left 
+        caption: Sep 2014 - Sep 2016
+        description: |
+          #### Master of European and International Private Banking ####
+          IAE Nice - Université Côte d'Azur- FRANCE
+      - layout: left
+        caption: Sep 2011 - Sep 2014
+        description: |
+          #### Bachelor of Economics and Management ####
+          Toulouse 1 University Capitole - FRANCE
           
 
   - title: Certifications # Title for the section
