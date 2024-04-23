@@ -53,7 +53,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Katalyst VietNam Company
+        title: Katalyst Vietnam Company
         link: katalyst.vn
         # link_text: boringcompany.com
         sub_title: Data Engineering Lead
