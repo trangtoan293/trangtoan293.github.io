@@ -54,7 +54,7 @@ content:
     content:
       - layout: left
         title: Katalyst VietNam Company
-        link: katalyst.vn/
+        link: katalyst.vn
         # link_text: boringcompany.com
         sub_title: Data Engineering Lead
         caption: Oct 2022 - Present
@@ -119,7 +119,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         title: IAE Nice - Business School - FRANCE
         caption: Sep 2014 - Sep 2016
         sub_title: Master of European and International Private Banking
@@ -143,10 +143,10 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
   - title: Certifications # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
-        title: AWS Certifi ed Cloud Practitioner
+        title: AWS Certified Cloud Practitioner
         caption: Apr 2024
         link: https://bit.ly/3vV8jpZ
       - layout: left
