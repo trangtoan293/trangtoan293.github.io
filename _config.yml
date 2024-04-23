@@ -120,23 +120,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: IAE Nice - Université Côte d'Azur- FRANCE
+        title: Master of European and International Private Banking
         caption: Sep 2014 - Sep 2016
-        sub_title: Master of European and International Private Banking
         description: | # this will include new lines to allow paragraphs
-          Banking Finance, Financial Analysis Advance,Portfolio, Management, Marketingand commercial development, Risk management.
-      - layout: left
-        title: Toulouse 1 University Capitole - FRANCE
-        caption: Sep 2011 - Sep 2014
-        sub_title: Bachelor of Economics and Management
+          IAE Nice - Université Côte d'Azur- FRANCE
 
+      - layout: left
+        title: Bachelor of Economics and Management
+        caption: Sep 2011 - Sep 2014
+        description: | # this will include new lines to allow paragraphs
+          Toulouse 1 University Capitole - FRANCE
+          
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         description: |
-          Apr-2024 [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
-          Mar 2023 [Data Vault 2.0 Practitioner](https://bit.ly/3UobAYa)
+          - Apr-2024 [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
+          - Mar 2023 [Data Vault 2.0 Practitioner](https://bit.ly/3UobAYa)
 
   - title: A Little More About Me
     layout: text
