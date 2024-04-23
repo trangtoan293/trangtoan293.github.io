@@ -118,7 +118,7 @@ content:
   
   - title: Education # Title for the section
     layout: text # Type of content section (list/text)
-    content:
+    content: |
         - <h4>Sep 2014 - Sep 2016 </h4>
           <h4>Master of European and International Private Banking </h4>
           <h5>IAE Nice - Université Côte d'Azur- FRANCE </h5>
