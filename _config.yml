@@ -132,15 +132,21 @@ content:
           
 
   - title: Certifications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content: |
-          - Apr 2024 [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
-          - Mar 2023 [Data Vault 2.0 Practitioner](https://bit.ly/3UobAYa)
+      - layout: left 
+        caption: Apr 2024
+        description: |
+            [AWS Certified Cloud Practitioner](https://bit.ly/3vV8jpZ)
+      - layout: left 
+        caption: Mar 2023
+        description: |
+            [Data Vault 2.0 Practitioner](https://bit.ly/3UobAYa)
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages: Python
+      - **Programming Languages**: Python
       - Big Data Technologies: Apache Spark, YARN, Apache Kafka, HDFS
       - Open Format Table: Apache Iceberg
       - Storage: MinIO
