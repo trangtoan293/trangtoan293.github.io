@@ -61,13 +61,12 @@ content:
         quote: >
           Design data platform
         description: | 
-            - Architect and implement a comprehensive modern data platform for the company
+            - Architect and implement a comprehensive modern data platform for the company.
             - Design Data Vault 2.0 modeling pattern to build a data warehouse.
-            - Develop end-to-end data workfl ows on the data platform, including develop datapipeline, data catalog, data lineage, data quality and monitoring.
-            - Design maintaining jobs, including small-fi les handling, snapshots expiring andremoving old metadata fi les.
-            - Optimize Spark jobs to enhance data processing performance and minimizeresource utilization.
-            - Design and develop DataVault Automation Tool to enhance the implementationprocess.
-            - Co-operate with CTO to defi ne tools and services for the product.
+            - Develop end-to-end data workflows on the data platform, including develop data pipeline, data catalog, data lineage, data quality and monitoring, resulting in an improvement in data reliability and more than 50% reduction in data-related incidents.
+            - Design maintaining jobs, including small-files handling, snapshots expiring and removing old metadata files, optimizing query performance by 20%.
+            - Optimize Spark jobs by fine-tuning configuration parameters, resulting in a 40% reduction in job execution time and a 20% decrease in cluster resource utilization.
+            - Design and develop DataVault Automation Tool to accelerate the data modelling process by 40% and reducing manual errors.
       
       - layout: left
         title: Home Credit Vietnam Financial Company
@@ -78,13 +77,13 @@ content:
         quote: >
           Inhouse Data Platform Implementation
         description: | # this will include new lines to allow paragraphs
-            - Report Automation: Spearheaded the generation of daily, monthly, and quarterlyautomated reports tailored for the Finance Department.
-            - Dashboard Maintenance: Diligently maintained and updated the Board ofDirectors' Finance dashboards, ensuring accuracy and relevancy.
+            - Report Automation: Spearheaded the generation of daily, monthly, and quarterly automated reports for the Finance Department.
+            - Dashboard Maintenance: Diligently maintained and updated the Board of Directors' Finance dashboards, ensuring accuracy and relevancy.
             - Regulatory & Tax Reporting: Enhanced and automated regulatory and taxreporting processes, with meticulous data mapping and monitoring to guaranteeSBV reporting compliance.
-            - Data Integrity & Alerts: Instituted rigorous data quality checks, along with earlywarning systems and alerts for critical issues.
-            - Data Reconciliation & Automation: Automated reconciliations between diversedata sources and streamlined the integration with the SAP Auto-booking process.
-            - IT Collaboration & Data Strategy: Partnered with IT to fi ne-tune data strategy,emphasizing the roles of DWH, DataMart, and Hadoop. Promoted the use ofHadoop for enhanced reporting, positioning it as a reliable backup solution.
-            - Support for Transformation Initiatives: Actively supported company transformationprojects, collaborating with the Accounting department to deliver essentialregulatory components.
+            - Data Integrity & Alerts: Instituted data quality checks, along with early warning systems and alerts for critical issues.
+            - Data Reconciliation & Automation: Automated reconciliations between diverse data sources and streamlined the integration with the SAP Auto-booking process.
+            - IT Collaboration & Data Strategy: Partnered with IT to fine-tune data strategy,emphasizing the roles of DWH, DataMart, and Hadoop. Promoted the use of Hadoop for enhanced reporting, positioning it as a reliable backup solution.
+            - Support for Transformation Initiatives: Actively supported company transformation projects, collaborating with the Accounting department to deliver essential regulatory components.
      
       - layout: left
         title: HC Collection Agency Company
@@ -96,8 +95,8 @@ content:
           Evaluate collection team performance
         description: | # this will include new lines to allow paragraphs
           - Building a small-scale data platform for a company
-          - Process and integrate data using ETL processes to ensure accuracy andconsistency by using Python and dbt.
-          - Design a data storage and visualization tool, such as Metabase, for creating anoperator performance and Payment dashboard for the company.
+          - Process and integrate data using ETL processes to ensure accuracy and consistency by using dbt.
+          - Design a data storage and visualization tool, such as Metabase, for creating an operator performance and Payment dashboard for the company.
           - Collect and analyze key performance metrics from collection team for reporting.
           - Enhance campaign approach to improve operator process.
 
@@ -110,11 +109,11 @@ content:
         quote: >
           Data Analytics and Management Credit Assessment
         description: | # this will include new lines to allow paragraphs
-          - Generate daily/monthly or ad-hoc management reports to managers anddirectors.
+          - Generate daily/monthly or ad-hoc management reports to managers and directors.
           - Closely track on resource and capacity planning.
-          - Develop efficient scripting to manage data gathering, mining andtransformation.
+          - Develop efficient scripting to manage data gathering, mining and transformation.
           - Monitor analytics and metrics results and delivering data-driven insight into emerging problems, trends as required.
-          - Collaborate with Assessment/Draw-down/Collection departments to identifybusiness process improvements.
+          - Collaborate with Assessment/Draw-down/Collection departments to identify business process improvements.
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
