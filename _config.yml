@@ -59,7 +59,7 @@ content:
         sub_title: Data Engineering Lead
         caption: Oct 2022 - Present
         quote: >
-          Design data platform
+          Build Data Platform
         description: | 
             - Architect and implement a comprehensive modern data platform for the company.
             - Design Data Vault 2.0 modeling pattern to build a data warehouse.
@@ -75,7 +75,7 @@ content:
         sub_title: Business Intelligence Lead
         caption: Dec 2019 - Oct 2022
         quote: >
-          Inhouse Data Platform Implementation
+          Inhouse Data Platform
         description: | # this will include new lines to allow paragraphs
             - Report Automation: Spearheaded the generation of daily, monthly, and quarterly automated reports for the Finance Department.
             - Dashboard Maintenance: Diligently maintained and updated the Board of Directors' Finance dashboards, ensuring accuracy and relevancy.
