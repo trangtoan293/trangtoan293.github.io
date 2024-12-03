@@ -43,7 +43,7 @@ linkedin_username: thanh-toan-t-aa32651ba
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/cv_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Having served as the Data Engineering Lead at Katalyst Vietnam JSC for a year, I've gained deep insights into data modelling and advanced data process development. My strong foundation in the finance sector is supported by Master's degree in European and International Private Banking from IAE Nice. This background enabled me to successfully design and implement an end-to-end DataVault Platform for one of Vietnam's premier banks, integrating the Data Vault Model and Data Transformation patterns on a Big Data Platform. I'm now eager to explore opportunities that will further develop my technical capabilities and allow me to work in an international environment, where I can harness new technologies to create innovative solutions.
 
