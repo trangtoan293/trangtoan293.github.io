@@ -58,22 +58,21 @@ content:
         # link_text: boringcompany.com
         sub_title: Data Engineering Lead
         caption: Oct 2022 - Present
-        quote: >
-          Build Data Platform
-        description: | 
+
+        description: |   
           ## Enterprise Data Modeling
           - Architected and implemented a cutting-edge enterprise data platform, leveraging Data Vault 2.0 modeling patterns to establish a robust and scalable data warehouse infrastructure. 
-          - Developed an internal DataVault Automation Tool that accelerated modeling processes by 40% while minimizing manual errors.
+          - Developed an internal DataVault Automation Tool that accelerated modeling processes by 40% while minimizing manual errors.  
           ##  Data Pipeline Development
           - Orchestrated and engineered high-performance data workflows using Apache Airflow and Apache Spark, implementing version-controlled SQL transformations with dbt for comprehensive data lineage tracking
           - Implementing near real-time processing capabilities through micro-batch systems using Spark Structured Streaming.
-          - Optimized Spark job configurations through sophisticated parameter tuning, achieving 40% reduction in execution time and 20% decrease in cluster resource utilization. 
+          - Optimized Spark job configurations through sophisticated parameter tuning, achieving 40% reduction in execution time and 20% decrease in cluster resource utilization.   
           ## Infrastructure & Storage Management
           - Designed and implemented storage architecture utilizing MinIO services and Apache Iceberg for table format management, optimizing data storage through Parquet file format for enhanced query performance and compression efficiency.
-          - Established strategic maintenance workflows for small-file handling, snapshot management, and metadata cleanup, improving query performance by 20%.
+          - Established strategic maintenance workflows for small-file handling, snapshot management, and metadata cleanup, improving query performance by 20%.  
           ## Data Catalog & Quality Assurance
           - Established comprehensive data catalog framework using DataHub for metadata management, data lineage tracking, and business glossary maintenance. 
-          - Implemented robust data quality monitoring through Grafana, resulting in reduction in data-related incidents and enhanced data reliability.
+          - Implemented robust data quality monitoring through Grafana, resulting in reduction in data-related incidents and enhanced data reliability.  
       
       - layout: left
         title: Home Credit Vietnam Financial Company
@@ -81,16 +80,15 @@ content:
         # link_text: boringcompany.com
         sub_title: Business Intelligence Lead
         caption: Dec 2019 - Oct 2022
-        quote: >
-          Inhouse Data Platform
-        description: | # this will include new lines to allow paragraphs
-            - Report Automation: Spearheaded the generation of daily, monthly, and quarterly automated reports for the Finance Department.
-            - Dashboard Maintenance: Diligently maintained and updated the Board of Directors' Finance dashboards, ensuring accuracy and relevancy.
-            - Regulatory & Tax Reporting: Enhanced and automated regulatory and taxreporting processes, with meticulous data mapping and monitoring to guaranteeSBV reporting compliance.
-            - Data Integrity & Alerts: Instituted data quality checks, along with early warning systems and alerts for critical issues.
-            - Data Reconciliation & Automation: Automated reconciliations between diverse data sources and streamlined the integration with the SAP Auto-booking process.
-            - IT Collaboration & Data Strategy: Partnered with IT to fine-tune data strategy,emphasizing the roles of DWH, DataMart, and Hadoop. Promoted the use of Hadoop for enhanced reporting, positioning it as a reliable backup solution.
-            - Support for Transformation Initiatives: Actively supported company transformation projects, collaborating with the Accounting department to deliver essential regulatory components.
+        description: | # this will include new lines to allow paragraphs     
+          ## Data Analytics & Business Intelligence
+          - Enhancing financial reporting efficiency by implementing automated daily, monthly, and quarterly reporting systems, reducing manual processing time by 40% and saving approximately 60 hours monthly.
+          - Led the development of enterprise-wide financial dashboards for the Board of Directors, consolidating cross-departmental data into strategic visualizations. Partnered with business units to automate customer lifetime value reporting, reducing generation time by 50% and enhancing strategic analysis capabilities.
+          - Spearheaded the transformation of regulatory compliance reporting through advanced automation, ensuring 100% accuracy in SBV submissions while reducing preparation time by 50% and minimizing human errors.
+          - Collaborated with finance and accounting teams to identify and automate key business processes, including payment reconciliation and month-end closing workflows, resulting in reducing processing time by 60%.  
+          ## Technical Innovation & Process Optimization:
+          - Engineered and deployed a robust data quality management framework utilizing Oracle, Apache Airflow, and VBA, implementing automated monitoring systems that proactively identify issues and alert stakeholders, resulting in a 40% reduction in data discrepancies.
+          - Led the end-to-end automation of cross-system data reconciliation processes, seamlessly integrating with SAP Auto-booking workflows to achieve 70% improvement in processing accuracy and operational efficiency.
      
       - layout: left
         title: HC Collection Agency Company
@@ -98,14 +96,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Data Engineer
         caption: Jan 2021 - Present
-        quote: >
-          Evaluate collection team performance
-        description: | # this will include new lines to allow paragraphs
-          - Building a small-scale data platform for a company
-          - Process and integrate data using ETL processes to ensure accuracy and consistency by using dbt.
-          - Design a data storage and visualization tool, such as Metabase, for creating an operator performance and Payment dashboard for the company.
-          - Collect and analyze key performance metrics from collection team for reporting.
-          - Enhance campaign approach to improve operator process.
+        description: | # this will include new lines to allow paragraphs    
+          ## Strategic Analytics Implementation
+          - Architected and implemented end-to-end data infrastructure from scratch, leveraging Apache Airflow for workflow orchestration and dbt for data transformation. 
+          - Established scalable data pipelines with PostgreSQL as the data warehouse, achieving 40% reduction in processing time.
+          - Engineered comprehensive analytics dashboard through Metabase visualization platform, delivering the operator performance and payment dashboards
+          - Implemented automated reporting systems that reduced manual effort by 50% while enhancing data accessibility for stakeholders.
 
       - layout: left
         title: Shinhan Bank Vietnam
@@ -151,13 +147,13 @@ content:
 
   - title: Skills
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **Programming Languages**: Python
+    content: | # this will include new lines to allow paragraphs  
+      - Programming Languages: Python
       - Big Data Technologies: Apache Spark, YARN, Apache Kafka, HDFS
       - Open Format Table: Apache Iceberg
       - Storage: MinIO
       - Streaming platform : Confluent
-      - Database Management: Oracle, PostgreSQL
+      - Database Management: Oracle, PostgreSQL, duckBD
       - Transformation tool: dbt
       - Orchestration: Apache Airflow
       - Version Control: Git
