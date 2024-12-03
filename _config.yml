@@ -61,12 +61,19 @@ content:
         quote: >
           Build Data Platform
         description: | 
-            - Architect and implement a comprehensive modern data platform for the company.
-            - Design Data Vault 2.0 modeling pattern to build a data warehouse.
-            - Develop end-to-end data workflows on the data platform, including develop data pipeline, data catalog, data lineage, data quality and monitoring, resulting in an improvement in data reliability and more than 50% reduction in data-related incidents.
-            - Design maintaining jobs, including small-files handling, snapshots expiring and removing old metadata files, optimizing query performance by 20%.
-            - Optimize Spark jobs by fine-tuning configuration parameters, resulting in a 40% reduction in job execution time and a 20% decrease in cluster resource utilization.
-            - Design and develop DataVault Automation Tool to accelerate the data modelling process by 40% and reducing manual errors.
+          ## Enterprise Data Modeling
+          - Architected and implemented a cutting-edge enterprise data platform, leveraging Data Vault 2.0 modeling patterns to establish a robust and scalable data warehouse infrastructure. 
+          - Developed an internal DataVault Automation Tool that accelerated modeling processes by 40% while minimizing manual errors.
+          ##  Data Pipeline Development
+          - Orchestrated and engineered high-performance data workflows using Apache Airflow and Apache Spark, implementing version-controlled SQL transformations with dbt for comprehensive data lineage tracking
+          - Implementing near real-time processing capabilities through micro-batch systems using Spark Structured Streaming.
+          - Optimized Spark job configurations through sophisticated parameter tuning, achieving 40% reduction in execution time and 20% decrease in cluster resource utilization. 
+          ## Infrastructure & Storage Management
+          - Designed and implemented storage architecture utilizing MinIO services and Apache Iceberg for table format management, optimizing data storage through Parquet file format for enhanced query performance and compression efficiency.
+          - Established strategic maintenance workflows for small-file handling, snapshot management, and metadata cleanup, improving query performance by 20%.
+          ## Data Catalog & Quality Assurance
+          - Established comprehensive data catalog framework using DataHub for metadata management, data lineage tracking, and business glossary maintenance. 
+          - Implemented robust data quality monitoring through Grafana, resulting in reduction in data-related incidents and enhanced data reliability.
       
       - layout: left
         title: Home Credit Vietnam Financial Company
