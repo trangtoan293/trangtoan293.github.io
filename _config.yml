@@ -59,11 +59,12 @@ content:
         sub_title: Data Engineering Lead
         caption: Oct 2022 - Present
 
-        description: |   
+        description: |    
+
           ## Enterprise Data Modeling
           - Architected and implemented a cutting-edge enterprise data platform, leveraging Data Vault 2.0 modeling patterns to establish a robust and scalable data warehouse infrastructure. 
           - Developed an internal DataVault Automation Tool that accelerated modeling processes by 40% while minimizing manual errors.  
-          ##  Data Pipeline Development
+          ## Data Pipeline Development
           - Orchestrated and engineered high-performance data workflows using Apache Airflow and Apache Spark, implementing version-controlled SQL transformations with dbt for comprehensive data lineage tracking
           - Implementing near real-time processing capabilities through micro-batch systems using Spark Structured Streaming.
           - Optimized Spark job configurations through sophisticated parameter tuning, achieving 40% reduction in execution time and 20% decrease in cluster resource utilization.   
@@ -81,6 +82,7 @@ content:
         sub_title: Business Intelligence Lead
         caption: Dec 2019 - Oct 2022
         description: | # this will include new lines to allow paragraphs     
+
           ## Data Analytics & Business Intelligence
           - Enhancing financial reporting efficiency by implementing automated daily, monthly, and quarterly reporting systems, reducing manual processing time by 40% and saving approximately 60 hours monthly.
           - Led the development of enterprise-wide financial dashboards for the Board of Directors, consolidating cross-departmental data into strategic visualizations. Partnered with business units to automate customer lifetime value reporting, reducing generation time by 50% and enhancing strategic analysis capabilities.
@@ -97,6 +99,7 @@ content:
         sub_title: Data Engineer
         caption: Jan 2021 - Present
         description: | # this will include new lines to allow paragraphs    
+
           ## Strategic Analytics Implementation
           - Architected and implemented end-to-end data infrastructure from scratch, leveraging Apache Airflow for workflow orchestration and dbt for data transformation. 
           - Established scalable data pipelines with PostgreSQL as the data warehouse, achieving 40% reduction in processing time.
@@ -109,8 +112,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Data Analyst
         caption: Jun 2017 - Nov 2019
-        quote: >
-          Data Analytics and Management Credit Assessment
         description: | # this will include new lines to allow paragraphs
           - Generate daily/monthly or ad-hoc management reports to managers and directors.
           - Closely track on resource and capacity planning.
