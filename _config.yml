@@ -45,7 +45,8 @@ linkedin_username: thanh-toan-t-aa32651ba
 # about_title: About Me
 about_profile_image: images/cv_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Having served as the Data Engineering Lead at Katalyst Vietnam JSC for a year, I've gained deep insights into data modelling and advanced data process development. My strong foundation in the finance sector is supported by Master's degree in European and International Private Banking from IAE Nice. This background enabled me to successfully design and implement an end-to-end DataVault Platform for one of Vietnam's premier banks, integrating the Data Vault Model and Data Transformation patterns on a Big Data Platform. I'm now eager to explore opportunities that will further develop my technical capabilities and allow me to work in an international environment, where I can harness new technologies to create innovative solutions.
+  As Data Engineering Lead at Katalyst Vietnam JSC, I have established a proven track record of architecting and implementing enterprise-scale data solutions over the past two years. My expertise spans data modeling, pipeline development, and large-scale data platform implementation. This unique combination of technical proficiency and financial sector knowledge enabled me to successfully design and deploy a comprehensive DataVault Platform for a leading Vietnamese bank, incorporating sophisticated Data Vault modeling methodologies and transformation patterns within a Big Data ecosystem.
+  I am now seeking opportunities to further advance my technical expertise. My goal is to leverage cutting-edge technologies and best practices to create innovative data solutions that drive business value.
 
 content:
 
@@ -97,7 +98,7 @@ content:
         link: --
         # link_text: boringcompany.com
         sub_title: Data Engineer
-        caption: Jan 2021 - Present
+        caption: Jan 2021 - Aug 2024
         description: | # this will include new lines to allow paragraphs    
 
           ## Strategic Analytics Implementation
